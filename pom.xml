@@ -98,6 +98,7 @@
                     <excludes>
                         <exclude>com/digitalacademy/unittestwithjunit5/Application*</exclude>
                         <exclude>com/digitalacademy/unittestwithjunit5/example/*</exclude>
+                        <exclude>com/digitalacademy/unittestwithjunit5/model/*</exclude>
                     </excludes>
                 </configuration>
                 <executions>
